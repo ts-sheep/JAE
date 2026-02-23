@@ -8,4 +8,5 @@ minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/modernfix/structureCacheV1/
 minecraft/modernfix/
+minecraft/fabricloader.log
 instance.cfg
