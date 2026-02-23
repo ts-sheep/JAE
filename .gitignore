@@ -4,4 +4,6 @@ minecraft/crash-reports/
 minecraft/xaero/
 minecraft/screenshots/
 minecraft/schematics/
+minecraft/usercache.json
+minecraft/usernamecache.json
 instance.cfg
